@@ -231,7 +231,8 @@ header .lead {
   color: #333333; /* Dark grey for section titles */
   font-weight: 700;
   margin-bottom: 3.5rem;
-  text-shadow: 0 0 8px rgba(233, 30, 99, 0.2); /* Subtle rose glow */
+  text-shadow: 0 0 8px rgba(233, 30, 99, 0.2); 
+  justify-content: center;/* Subtle rose glow */
 }
 
 .product-card {
